@@ -1,6 +1,6 @@
 <?php
 
-//remote change 1
+//remote change 2
 /**
  * Author Template functions for use in themes.
  *

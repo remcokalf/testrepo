@@ -1,0 +1,4 @@
+
+# Ignore IDEA
+.idea/*
+.DS_Store

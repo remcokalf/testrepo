@@ -1,5 +1,5 @@
 <?php
-//test uncommitted change z
+//test uncommitted change 1
 /**
  * Toolbar API: Top-level Toolbar functionality
  *
@@ -7,7 +7,7 @@
  * @subpackage Toolbar
  * @since 3.1.0
  */
-//test uncommitted change z
+//test uncommitted change 1
 /**
  * Instantiate the admin bar object and set it up as a global for access elsewhere.
  *

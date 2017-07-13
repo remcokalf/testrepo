@@ -1,5 +1,5 @@
 <?php
-//test second change 5 local
+//test second remote conflicting
 /**
  * Toolbar API: Top-level Toolbar functionality
  *

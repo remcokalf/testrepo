@@ -7,7 +7,7 @@
  * @subpackage Toolbar
  * @since 3.1.0
  */
-//test uncommitted change 3
+//not conflicting change1
 /**
  * Instantiate the admin bar object and set it up as a global for access elsewhere.
  *

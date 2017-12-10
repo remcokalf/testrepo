@@ -1,6 +1,6 @@
 <?php
 /**
- * Atom Syndication Format PHP Library
+ * Atom Syndication Format PHP Library test
  *
  * @package AtomLib
  * @link http://code.google.com/p/phpatomlib/

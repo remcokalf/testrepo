@@ -29,6 +29,7 @@ function _wp_admin_bar_init() {
 	global $wp_admin_bar;
 
 	if ( ! is_admin_bar_showing() )
+	    
 		return false;
 
 	/* Load the admin bar class code ready for instantiation */

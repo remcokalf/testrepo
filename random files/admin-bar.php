@@ -8,7 +8,7 @@
  * Toolbar API: Top-level Toolbar functionality
  *
  * @package WordPress
- * @subpackage Toolbar
+ * @subpackage Toolbarr
  * @since 3.1.0
  */
 //not conflicting change3
